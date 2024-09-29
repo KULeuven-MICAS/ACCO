@@ -1,0 +1,9 @@
+name: ACCOenv
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - networkx
+  - sympy
+  - matplotlib
